@@ -22,7 +22,7 @@
 
 >  𝘤𝘓𝘰𝘯𝘦 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘶𝘴𝘪𝘯𝘨 𝘨𝘪𝘵 𝘤𝘭𝘰𝘯𝘦
 
-> git clone https://github.com/Star-Ford/Info-Sec-Dork-Lists
+> git clone https://github.com/0xAbbarhSF/Info-Sec-Dork-Lists
 
 𝘰𝘳
 
