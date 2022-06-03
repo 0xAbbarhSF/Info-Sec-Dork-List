@@ -2,6 +2,10 @@
 #### Assalamualaikum W.R W.B❤️
 ## Tool Info 💻⚫⚪
 
+- 🕊️ Twitter: [@0xAbbarhSF](https://twitter.com/0xAbbarhSF)
+[![Tweet](https://img.shields.io/twitter/url/http/0xAbbarhSF.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=CMS-Xploiter%20-%20Automated%20Pentest%20Recon%20Scanner%20%400xAbbarhSD&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2F0xAbbarhSF%)
+
+
 𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨 𝐚𝐢𝐦𝐬 𝐭𝐨 𝐡𝐞𝐥𝐩 𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇𝐄𝐑𝐒 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐠𝐨𝐨𝐠𝐥𝐞 𝐝𝐨𝐫𝐤 𝐥𝐢𝐬𝐭 
 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐡𝐢𝐝𝐝𝐞𝐧 𝐨𝐫 𝐮𝐧 𝐫𝐞𝐯𝐞𝐚𝐥𝐞𝐝 𝐩𝐚𝐭𝐡 𝐨𝐟 𝐚 𝐰𝐞𝐛 𝐬𝐞𝐫𝐯𝐞𝐫
 
@@ -27,6 +31,9 @@
 𝘰𝘳
 
 > 𝘥𝘰𝘸nl𝘰𝘢𝘥 𝘮𝘢𝘯𝘢𝘶𝘭𝘭𝘺 
+
+- 🕊️ Twitter: [@0xAbbarhSF](https://twitter.com/0xAbbarhSF)
+[![Tweet](https://img.shields.io/twitter/url/http/0xAbbarhSF.svg?style=social)](https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2Fen%2Fdocs%2Ftwitter-for-websites%2Ftweet-button%2Foverview&ref_src=twsrc%5Etfw&text=CMS-Xploiter%20-%20Automated%20Pentest%20Recon%20Scanner%20%400xAbbarhSD&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2F0xAbbarhSF%)
 
 #### 𝘛𝘩𝘢𝘯𝘬 𝘠𝘰𝘶 
 
